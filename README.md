@@ -1,2 +1,2 @@
 # dragon-quest
-A GitHub repository for adventuring casually into Cloud Technology.
+A GitHub repository for exploring casually to see what I can discover.
